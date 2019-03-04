@@ -20,6 +20,7 @@ body {
 header {
 	/*top: 0;
 	left: 0;*/
+	padding-top: 30px;
 	border-bottom: 1px solid #9AABA5;
 	margin-bottom: 2px;
 }
@@ -27,7 +28,6 @@ header {
 	font-family: 'Libre Baskerville', serif;
 	color: #9AABA5;
 	font-size: 3em;
-	vertical-align: bottom;
 
 }
 
