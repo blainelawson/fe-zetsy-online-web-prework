@@ -27,11 +27,13 @@ header {
 	margin-top: 0px;
 }
 
+#title {
+	vertical-align: bottom;
+}
 #title h1 {
 	font-family: 'Libre Baskerville', serif;
 	color: #9AABA5;
 	font-size: 3em;
-	vertical-align:bottom;
 }
 
 section {
